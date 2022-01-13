@@ -11,6 +11,8 @@ namespace Fifa
         public int Valtozás { get; set; }
         public int Pontszám { get; set; }
 
+
+
         }
     }
 }
