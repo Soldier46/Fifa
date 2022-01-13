@@ -10,6 +10,7 @@ namespace Fifa
            public int Helyezés { get; set; }
         public int Valtozás { get; set; }
         public int Pontszám { get; set; }
+
         }
     }
 }
